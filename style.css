@@ -29,6 +29,12 @@ header{
   background-color: F2E2D7;
 }
 
+.logo{
+	position: absolute;
+	left: 1700px;
+	margin-top: -95px;
+}
+
 /*Grid de produtos*/
 .container{
     background-color: #F2E2D7;
