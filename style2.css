@@ -44,15 +44,28 @@ header{
 	height: 810px;
 }
 
-.texts{
+.card{
 	text-align: center;
 	position: absolute;
-	left: 1500px;
+	left: 1200px;
 	border: 5px solid #000000;
 	border-radius: 20px;
-	width: 250px;
-	height: 150px;
+	width: 550px;
+	height: 550px;
+	margin-top: -400px;
 }
+
+.btn{
+    background-position: 40px;
+    border: 1px solid #fff;
+    background-color: #000000;
+    border-radius: 20px;
+	height: 40px;
+	width: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+
 /*Rodapé*/
 
 footer{
