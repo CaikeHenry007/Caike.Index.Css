@@ -56,6 +56,7 @@ footer{
 	margin-left: 80px;
 	margin-top: 0px;
 	text-align: center;
+	text-decoration: none;
 }
 
 .btn{
@@ -67,6 +68,7 @@ footer{
 	height: 60px;
 	width: 100px;
 	color: #fff;
+	text-decoration: none;
 }
 
 .product-image1{
@@ -76,8 +78,7 @@ footer{
 	height: 350px;
 	width: 260px;
 	margin-top: -200px;
-
-	
+	text-decoration: none;
 }
 
 .product-image2{
@@ -86,8 +87,7 @@ footer{
     border-radius: 10px;
 	height: 350px;
 	width: 260px;
-	
-	
+	text-decoration: none;
 }
 .product-image3{
     background-position: 40px;
@@ -97,8 +97,7 @@ footer{
 	width: 263px;
 	position: absolute;
 	margin-top: -330px;
-	
-	
+	text-decoration: none;
 }
 
 .product-image4{
@@ -107,7 +106,7 @@ footer{
     border-radius: 10px;
 	height: 350px;
 	width: 265px;
-	
+	text-decoration: none;
 }
 
 .product-image5{
@@ -115,8 +114,8 @@ footer{
     border: 5px solid #000000;
     border-radius: 10px;
 	height: 350px;
-	width: 268px;
-	
+	width: 263px;
+	text-decoration: none;
 }
 
 .product-image6{
@@ -125,7 +124,7 @@ footer{
     border-radius: 10px;
 	height: 350px;
 	width: 263px;
-	
+	text-decoration: none;
 }
 
 .product-image7{
@@ -134,7 +133,7 @@ footer{
     border-radius: 10px;
 	height: 350px;
 	width: 261px;
-	
+	text-decoration: none;
 }
 
 .product-image8{
@@ -143,8 +142,9 @@ footer{
     border-radius: 10px;
 	height: 350px;
 	width: 261px;
-	
+	text-decoration: none;
 }
+
 .card2{
 	width: 20%;
 	display: inline-block;
@@ -152,4 +152,9 @@ footer{
 	margin-left: 80px;
 	margin-top: 0px;
 	text-align: center;
+	text-decoration: none;
+}
+
+.texts{
+	color: #000000;
 }
