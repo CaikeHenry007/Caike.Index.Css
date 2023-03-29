@@ -4,7 +4,7 @@
 header{
     background-color: #000000;
 	color: #F2E2D7;
-	padding: 15px;
+	padding: 21px;
 	text-align: center;
 	border-bottom: 5px solid #F2E2D7;
 
@@ -12,8 +12,9 @@ header{
 
 .busca{
   text-align: center;
-  width: 20%;
-  margin-top: -40px;
+  left: 1500px;
+  margin-top: -50px;
+  position: absolute;
   
 }
 
@@ -30,6 +31,45 @@ header{
 
 .logo{
 	position: absolute;
-	left: 1700px;
+	width: 200px;
 	margin-top: -95px;
+}
+
+/*Grid de produtos*/
+.container{
+    background-color: #F2E2D7;
+	min-height: 60vh;
+	padding: 60px;
+	height: 810px;
+}
+
+.card{
+	text-align: center;
+	position: absolute;
+	left: 1200px;
+	border: 5px solid #000000;
+	border-radius: 20px;
+	width: 550px;
+	height: 550px;
+	margin-top: -400px;
+}
+
+.btn{
+    background-position: 40px;
+    border: 1px solid #fff;
+    background-color: #000000;
+    border-radius: 20px;
+	height: 40px;
+	width: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+
+/*Rodapé*/
+
+footer{
+	background-color: #000000;
+	color: #fff;
+	border-top: 5px solid #000000;
+	padding: 28px;
 }
